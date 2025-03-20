@@ -84,6 +84,4 @@ As per the hackathon requirements, the final deliverables included:
 ## Conclusion
 This project successfully developed a predictive model to classify **bad decoating cycles**, helping **reduce operational costs, improve efficiency, and minimize environmental waste**. Future work could explore **real-time monitoring** and **deep learning techniques** for enhanced predictive maintenance.
 
-**If you find this project useful, feel free to ⭐ the repo and fork it!**
-
 ---
